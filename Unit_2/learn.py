@@ -89,3 +89,28 @@ nostarch_url = nostarch_url.removeprefix('https://')
 print(nostarch_url)
 # nostarch.com
 # nostarch.com
+
+print()
+# 练习
+number_1 = 4
+number_2 = 2
+number_3 = 3
+x, y, z = 1, 2, 3
+print(number_1 / number_2)
+print(number_1 // number_2)
+print(number_1 % number_2)
+print(number_1 ** number_2)
+print(number_1 / number_3)
+print(number_1 // number_3)
+print(number_1 % number_3)
+print(number_1 ** number_3)
+print(x,  y, z)
+# 2.0
+# 2
+# 0
+# 16
+# 1.3333333333333333
+# 1
+# 1
+# 64
+# 1 2 3
